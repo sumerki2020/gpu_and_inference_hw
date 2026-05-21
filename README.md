@@ -3,6 +3,7 @@
 ## Contents
 
 - `hw1/`: implement and benchmark kernels with different arithmetic intensity.
+- `hw2/`: profile and optimize an autoregressive generation loop.
 
 ## Setup
 
